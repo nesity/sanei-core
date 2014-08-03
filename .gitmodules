@@ -1,0 +1,3 @@
+[submodule "vendor/bash-modules"]
+	path = vendor/bash-modules
+	url = https://github.com/vlisivka/bash-modules.git
