@@ -1,9 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b8f1fb-2517-4ffa-85ca-aa09083224c2" name="Default" comment="" />
+    <list default="true" id="96b8f1fb-2517-4ffa-85ca-aa09083224c2" name="Default" comment="">
+      <change type="DELETED" beforePath="Y:\Projects\sanei-core\sanei-core\lib\sanei.sh" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules" afterPath="$PROJECT_DIR$/vendor/bash-modules" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/00-base.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/00-base.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/01-var.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/01-var.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/README.md" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/arguments.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/arguments.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/boilerplate.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/boilerplate.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/core-test.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/core-test.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/cwdir.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/cwdir.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/elapsed_time.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/elapsed_time.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/examples.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/examples.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/doc/hw.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/doc/hw.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/import.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/import.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/ini_parser.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/ini_parser.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/install.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/install.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/install.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/install.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/kernel.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/lib/kernel.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/keyboard_input_tokenizer.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/keyboard_input_tokenizer.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/log.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/log.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/menu.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/menu.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/doc/menu_example.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/doc/menu_example.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/mktemp.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/mktemp.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/doc/module-template.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/doc/module-template.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/oo.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/oo.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/parser.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/parser.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/renice.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/renice.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sanei" afterPath="$PROJECT_DIR$/sanei" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/doc/script-TEMPLATE.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/doc/script-TEMPLATE.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/settings.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/settings.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/strings.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/strings.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/terminal.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/terminal.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test-extractlocal.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test-extractlocal.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/test.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/test.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test2.sh" afterPath="$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test2.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_arguments.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_arguments.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_ini_parser.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_ini_parser.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_keyboard_input_tokenizer.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_keyboard_input_tokenizer.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_log.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_log.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_mktemp.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_mktemp.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_parser.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_parser.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_settings.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_settings.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_strings.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_strings.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_timestamped_log.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/test/test_timestamped_log.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_xterm_keyboard_input_tokenizer.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/test/test_xterm_keyboard_input_tokenizer.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/timestamped_log.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/timestamped_log.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/unit.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/unit.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/xterm_keyboard_input_tokenizer.sh" afterPath="$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/xterm_keyboard_input_tokenizer.sh" />
+    </list>
     <ignored path="sanei-core.iws" />
     <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,30 +71,110 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="sanei-core" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sanei" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sanei">
+      <file leaf-file-name="sanei-oo" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sanei-oo">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7714286" vertical-offset="0" max-vertical-offset="840">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sanei.sh" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sanei-core/lib/sanei.sh">
+      <file leaf-file-name="rst-parser.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/sanei-core/core/rst-parser.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="351">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="130" column="75" selection-start-line="130" selection-start-column="69" selection-end-line="130" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sanei.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/sanei-core/core/sanei.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-base.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/00-base.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kernel.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/kernel.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <marker date="1423441313528" expanded="true" signature="9959:10081" placeholder="{...}" />
+                <marker date="1423441313528" expanded="true" signature="10455:10614" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/color.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01-var.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/01-var.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boilerplate.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/boilerplate.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="examples.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/examples.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.88">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core-test.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/core-test.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31573033">
+              <caret line="66" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,23 +187,49 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/bash-oo-framework" />
+  </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sanei.sh" />
-        <option value="$PROJECT_DIR$/sanei-core/lib/sanei.sh" />
-        <option value="$PROJECT_DIR$/sanei" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/oo.sh" />
+        <option value="$PROJECT_DIR$/vendor/realoo/test.sh" />
+        <option value="$PROJECT_DIR$/vendor/realoo/init.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/test2.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/test-extractlocal.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/types/00-base.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/README.md" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/01-var.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/lib/oo-core.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/lib/boilerplate.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/test.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/oo.sh" />
+        <option value="$PROJECT_DIR$/sanei-oo" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/tests/core-test.sh" />
+        <option value="$PROJECT_DIR$/modules/sanei-core/temp/parse-rst.sh" />
+        <option value="$PROJECT_DIR$/modules/sanei-core/temp/README.rst" />
+        <option value="$PROJECT_DIR$/modules/sanei-core/core/sanei.sh" />
+        <option value="$PROJECT_DIR$/modules/sanei-core/core/rst-parser.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/00-base.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/lib/kernel.sh" />
+        <option value="$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/examples.sh" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="77" />
-    <option name="width" value="1839" />
-    <option name="height" value="1000" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
+    <option name="y" value="-9" />
+    <option name="width" value="1860" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -92,7 +255,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -124,52 +287,232 @@
               <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bash-modules" />
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bash-oo-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bash-oo-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bash-oo-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bash-oo-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="types" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanei-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesBash" value="false" />
+    <property name="last_opened_file_path" value="D:/Private/GitHub/sanei" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://Y:/Projects/sanei-core/modules/sanei-core/lib/modules/configuration.sh" />
+    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Y:\Projects\sanei-core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Y:\Projects\sanei-core\vendor\bash-oo-framework\tests\tmp" />
+      <recent name="Y:\Projects\sanei-core\vendor\bash-oo-framework" />
+      <recent name="C:\Private\GitHub\sanei-core\modules" />
+      <recent name="C:\Private\GitHub\sanei-core\sanei-core\lib\lxc" />
+      <recent name="C:\Private\GitHub\sanei-core\sanei-core\lib\boot" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="name" value="Dart" />
-      <option name="saveOutputToFile" value="false" />
-      <option name="showConsoleOnStdErr" value="false" />
-      <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <module name="sanei-core" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
+      <module name="sanei-core" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -183,19 +526,27 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -205,31 +556,33 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="96b8f1fb-2517-4ffa-85ca-aa09083224c2" name="Default" comment="" />
       <created>1407103919713</created>
+      <option name="number" value="Default" />
       <updated>1407103919713</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="77" width="1839" height="1000" extended-state="0" />
+    <frame x="69" y="-9" width="1860" height="1098" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26304227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20033021" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -250,32 +603,378 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sanei-core/lib/sanei.sh">
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/import.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="351">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/xterm_keyboard_input_tokenizer.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="-12.450649">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/terminal.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/parser.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/doc/menu_example.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/keyboard_input_tokenizer.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/modules/bash-modules-tui/src/bash-modules/menu.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/cwdir.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.60598505">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/elapsed_time.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5822943">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/timestamped_log.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8883436">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/renice.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.19877301">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/settings.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/strings.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4239402">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/unit.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/log.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-modules/main/bash-modules/src/bash-modules/arguments.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/filesystem/helpers.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="166" column="1" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/extra/helpers.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/parser/parse-rst.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18181819">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/modules/module-support.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/extra/refactor-me.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/lxc/lxc.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test2.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/tmp/test-extractlocal.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="33" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.72">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57218546">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/boot/external-libs.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33788395">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/ux/dialog.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8106236">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/parser/defaults.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2901024">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/security/helpers.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21501707">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/modules/configuration.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82935154">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sanei">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7714286" vertical-offset="0" max-vertical-offset="840">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/modules/management.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/oo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/core.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/boot/globals.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/boot/load-config.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="109" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/lib/ux/simple.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7372014">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/temp/parse-rst.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/temp/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sanei-oo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/core/rst-parser.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="130" column="75" selection-start-line="130" selection-start-column="69" selection-end-line="130" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/01-var.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/boilerplate.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/sanei-core/core/sanei.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/color.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/kernel.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <marker date="1423441313528" expanded="true" signature="9959:10081" placeholder="{...}" />
+            <marker date="1423441313528" expanded="true" signature="10455:10614" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/lib/types/00-base.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/types/examples.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.88">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bash-oo-framework/tests/core-test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31573033">
+          <caret line="66" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-

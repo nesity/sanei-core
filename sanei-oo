@@ -1,0 +1,29 @@
+#!/bin/bash
+
+### Bootstrap ###
+__oo__path="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}")" )" && pwd )"
+[ -f "$__oo__path" ] && __oo__path=$(dirname "$__oo__path")
+source "${__oo__path}/vendor/bash-oo-framework/lib/boilerplate.sh"
+
+
+### Runtime ###
+
+# TODO:
+# Exit on error. Append ||true if you expect an error.
+# set -e is safer than #!/bin/bash -e because that is neutralised if
+# someone runs your script like `bash yourscript.sh`
+# set -o errexit
+# set -o nounset
+
+# Bash will remember & return the highest exitcode in a chain of pipes.
+# This way you can catch the error in case mysqldump fails in `mysqldump |gzip`
+# set -o pipefail
+
+
+### Main ###
+oo:debug:enable
+
+oo:import vendor/bash-oo-framework/lib/kernel
+oo:import vendor/bash-oo-framework/lib/types
+
+oo:import modules/sanei-core/core

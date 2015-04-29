@@ -1,4 +1,33 @@
 #!/bin/bash
+# SANEi
+# =====
+# .. module:: sanei
+#    :synopsis: A collection of bash scripts.
+# .. moduleauthor:: Bazyli Brzoska <bazyli.brzoska@gmail.com>
+#
+# :Description: (todo)
+# :Dependencies: - sanei
+#                - apt:software-properties-common
+#                - apt:git
+#                - apt:ufw
+#                - apt:dialog
+#
+# Arguments
+# +++++++++
+#
+# .. cmdoption:: action
+#
+#    Specify the action of the SANEi module.
+#
+# Variables
+# +++++++++
+#
+# .. envvar:: SCRIPT_DIR
+#
+#    The installation directory of SANEi.
+#
+# Code
+# ++++
 
 if [[ ! $(whoami) == "root" ]]; then
     echo "ERROR: You need to be root in order to run SANEi."
@@ -12,7 +41,7 @@ if [[ "${BASH_SOURCE[0]}" =~ sanmod$ ]]; then
 	exit 0
 fi
 
-if ! source "${SCRIPT_DIR}/sanei-core/lib/sanei.sh"; then
+if ! source "${SCRIPT_DIR}/modules/sanei-core/lib/core.sh"; then
     echo "ERROR: Missing library file."
     exit 1
 fi
@@ -21,4 +50,4 @@ fi
 # set SANEI_AUTOMATIC_SELFPUSH or SANEI_AUTOMATIC_SELFUPGRADE to automatically upgrade SANEI before every run
 #sanei_automatic_selfupgrade
 
-#INVOKED_COUNT=0 sanei_invoke_module_script sanei ${ARGUMENTS[@]}
+INVOKED_COUNT=0 sanei_invoke_module_script sanei-core ${ARGUMENTS[@]}
